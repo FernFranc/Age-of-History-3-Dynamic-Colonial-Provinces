@@ -9,13 +9,13 @@ Please remember to backup your main game.jar. In order to prevent Steam from upd
 
 
 
-2. Place the jar_files CivilizationRegion.class in the path \regional_labels_patch.zip\regional_labels_patch_v6\jar_files\aoc\kingdoms\lukasz\map\civilization in the main game jar path -> Age of History 3\game.jar\aoc\kingdoms\lukasz\map\civilization\ 
+2. Place the jar_files CivilizationRegion.class in the path -> \jar_files\aoc\kingdoms\lukasz\map\civilization in the main game jar path -> Age of History 3\game.jar\aoc\kingdoms\lukasz\map\civilization\ 
 <img width="1279" height="509" alt="Screenshot 2026-11-06 204717" src="https://github.com/user-attachments/assets/2c5d2f0e-6134-4b5b-a58e-0688cf5d2e7e" />
 
-3. Place the regionnames folder with the .class files under the path \regional_labels_patch.zip\regional_labels_patch_v6\jar_files\aoc\kingdoms\lukasz\ in the main game jar path -->
+4. Place the regionnames folder with the .class files under the path \jar_files\aoc\kingdoms\lukasz\ in the main game jar path -->
 <img width="1279" height="363" alt="Screenshot 2026-11-06 205503" src="https://github.com/user-attachments/assets/7938cb69-79b2-4b63-aed4-5611b3a184c9" />
 
-4. Save, then place the modified jar in the main game folder and launch in offline mode. '
+5. Save, then place the modified jar in the main game folder and launch in offline mode. '
 
    Example of patch implementation:
 
