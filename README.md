@@ -15,4 +15,10 @@ Please remember to backup your main game.jar. In order to prevent Steam from upd
 3. Place the regionnames folder with the .class files under the path \regional_labels_patch.zip\regional_labels_patch_v6\jar_files\aoc\kingdoms\lukasz\ in the main game jar path -->
 <img width="1279" height="363" alt="Screenshot 2026-11-06 205503" src="https://github.com/user-attachments/assets/7938cb69-79b2-4b63-aed4-5611b3a184c9" />
 
-4. Save, then place the modified jar in the main game folder and launch in offline mode. 
+4. Save, then place the modified jar in the main game folder and launch in offline mode. '
+
+   Example of patch implementation:
+
+   <img width="1280" height="720" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/0c664fe4-47b6-4b44-970b-34dfa7922906" />
+<img width="1280" height="720" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/7bd4ae73-72df-4f93-9fee-16097ba5210f" />
+
