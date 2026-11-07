@@ -1,5 +1,5 @@
 # Age-of-History-3-Dynamic-Colonial-Provinces
-This is a basic patch I made to the game's java file which allows for a dynamic colonial name system such as the one found in Victoria 2.
+This is a basic patch I made to the game's java file which allows for a dynamic colonial name system such as the one found in Victoria 2. Bugs are to be expected. This patch was also made with the help of Claude AI.
 
 Please remember to backup your main game.jar. In order to prevent Steam from updating and replacing the modified game.jar, launch in offline mode or disable Steam updates. In order to install the patch, you will need the files only in the patch jar_files folder.
 
