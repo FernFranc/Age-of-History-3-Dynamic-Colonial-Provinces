@@ -1,0 +1,2120 @@
+[
+ {
+  "state": "Greenland",
+  "macro": "Arctic",
+  "x": 6388,
+  "y": -281
+ },
+ {
+  "state": "Iceland",
+  "macro": "Arctic",
+  "x": 7462,
+  "y": 699
+ },
+ {
+  "state": "Svalbard",
+  "macro": "Arctic",
+  "x": 9123,
+  "y": -1477
+ },
+ {
+  "state": "Jan Mayen",
+  "macro": "Arctic",
+  "x": 7951,
+  "y": -121
+ },
+ {
+  "state": "Alaska",
+  "macro": "Northwest America",
+  "x": 1015,
+  "y": 818
+ },
+ {
+  "state": "Yukon",
+  "macro": "Northwest America",
+  "x": 1748,
+  "y": 818
+ },
+ {
+  "state": "Northwest Territories",
+  "macro": "Northwest America",
+  "x": 2871,
+  "y": 818
+ },
+ {
+  "state": "Arctic Archipelago",
+  "macro": "Northwest America",
+  "x": 3701,
+  "y": -630
+ },
+ {
+  "state": "British Columbia",
+  "macro": "Northwest America",
+  "x": 2236,
+  "y": 1792
+ },
+ {
+  "state": "Alberta",
+  "macro": "Northwest America",
+  "x": 2822,
+  "y": 1874
+ },
+ {
+  "state": "Pacific Northwest",
+  "macro": "Northwest America",
+  "x": 2432,
+  "y": 2439
+ },
+ {
+  "state": "Saskatchewan",
+  "macro": "Canada",
+  "x": 3213,
+  "y": 1954
+ },
+ {
+  "state": "Manitoba",
+  "macro": "Canada",
+  "x": 3604,
+  "y": 2031
+ },
+ {
+  "state": "Rupert's Land",
+  "macro": "Canada",
+  "x": 4190,
+  "y": 1792
+ },
+ {
+  "state": "Labrador",
+  "macro": "Canada",
+  "x": 5313,
+  "y": 1792
+ },
+ {
+  "state": "Ontario",
+  "macro": "Canada",
+  "x": 4434,
+  "y": 2354
+ },
+ {
+  "state": "Quebec",
+  "macro": "Canada",
+  "x": 4825,
+  "y": 2354
+ },
+ {
+  "state": "Maritimes",
+  "macro": "Canada",
+  "x": 5216,
+  "y": 2439
+ },
+ {
+  "state": "Newfoundland",
+  "macro": "Canada",
+  "x": 5606,
+  "y": 2225
+ },
+ {
+  "state": "New England",
+  "macro": "Eastern United States",
+  "x": 4874,
+  "y": 2620
+ },
+ {
+  "state": "New York",
+  "macro": "Eastern United States",
+  "x": 4678,
+  "y": 2646
+ },
+ {
+  "state": "Mid-Atlantic",
+  "macro": "Eastern United States",
+  "x": 4581,
+  "y": 2841
+ },
+ {
+  "state": "Carolinas",
+  "macro": "Eastern United States",
+  "x": 4434,
+  "y": 3109
+ },
+ {
+  "state": "Georgia",
+  "macro": "Eastern United States",
+  "x": 4239,
+  "y": 3229
+ },
+ {
+  "state": "Florida",
+  "macro": "Eastern United States",
+  "x": 4336,
+  "y": 3509
+ },
+ {
+  "state": "Deep South",
+  "macro": "Eastern United States",
+  "x": 4043,
+  "y": 3229
+ },
+ {
+  "state": "Ohio Valley",
+  "macro": "Eastern United States",
+  "x": 4239,
+  "y": 2884
+ },
+ {
+  "state": "Great Lakes",
+  "macro": "Eastern United States",
+  "x": 4092,
+  "y": 2620
+ },
+ {
+  "state": "Tennessee",
+  "macro": "Eastern United States",
+  "x": 4092,
+  "y": 3048
+ },
+ {
+  "state": "Louisiana",
+  "macro": "Eastern United States",
+  "x": 3872,
+  "y": 3346
+ },
+ {
+  "state": "Dakotas",
+  "macro": "Western United States",
+  "x": 3457,
+  "y": 2439
+ },
+ {
+  "state": "Kansas",
+  "macro": "Western United States",
+  "x": 3555,
+  "y": 2924
+ },
+ {
+  "state": "Texas",
+  "macro": "Western United States",
+  "x": 3506,
+  "y": 3346
+ },
+ {
+  "state": "Rocky Mountains",
+  "macro": "Western United States",
+  "x": 3067,
+  "y": 2566
+ },
+ {
+  "state": "Great Basin",
+  "macro": "Western United States",
+  "x": 2725,
+  "y": 2801
+ },
+ {
+  "state": "California",
+  "macro": "Western United States",
+  "x": 2480,
+  "y": 2986
+ },
+ {
+  "state": "Southwest",
+  "macro": "Western United States",
+  "x": 2969,
+  "y": 3169
+ },
+ {
+  "state": "Hawaii",
+  "macro": "Western United States",
+  "x": 673,
+  "y": 3944
+ },
+ {
+  "state": "Baja California",
+  "macro": "Mexico",
+  "x": 2822,
+  "y": 3509
+ },
+ {
+  "state": "Sonora",
+  "macro": "Mexico",
+  "x": 2969,
+  "y": 3454
+ },
+ {
+  "state": "Chihuahua",
+  "macro": "Mexico",
+  "x": 3164,
+  "y": 3509
+ },
+ {
+  "state": "Tamaulipas",
+  "macro": "Mexico",
+  "x": 3506,
+  "y": 3686
+ },
+ {
+  "state": "Jalisco",
+  "macro": "Mexico",
+  "x": 3262,
+  "y": 3915
+ },
+ {
+  "state": "Mexico",
+  "macro": "Mexico",
+  "x": 3506,
+  "y": 4002
+ },
+ {
+  "state": "Oaxaca",
+  "macro": "Mexico",
+  "x": 3653,
+  "y": 4144
+ },
+ {
+  "state": "Yucatan",
+  "macro": "Mexico",
+  "x": 3995,
+  "y": 3973
+ },
+ {
+  "state": "Guatemala",
+  "macro": "Central America",
+  "x": 3946,
+  "y": 4257
+ },
+ {
+  "state": "Nicaragua",
+  "macro": "Central America",
+  "x": 4190,
+  "y": 4394
+ },
+ {
+  "state": "Panama",
+  "macro": "Central America",
+  "x": 4434,
+  "y": 4606
+ },
+ {
+  "state": "Cuba",
+  "macro": "Caribbean",
+  "x": 4483,
+  "y": 3858
+ },
+ {
+  "state": "Hispaniola",
+  "macro": "Caribbean",
+  "x": 4874,
+  "y": 4030
+ },
+ {
+  "state": "Jamaica",
+  "macro": "Caribbean",
+  "x": 4581,
+  "y": 4087
+ },
+ {
+  "state": "Lesser Antilles",
+  "macro": "Caribbean",
+  "x": 5313,
+  "y": 4200
+ },
+ {
+  "state": "Bahamas",
+  "macro": "Caribbean",
+  "x": 4581,
+  "y": 3686
+ },
+ {
+  "state": "Colombia",
+  "macro": "Gran Colombia",
+  "x": 4727,
+  "y": 4768
+ },
+ {
+  "state": "Venezuela",
+  "macro": "Gran Colombia",
+  "x": 5118,
+  "y": 4629
+ },
+ {
+  "state": "Ecuador",
+  "macro": "Gran Colombia",
+  "x": 4532,
+  "y": 5131
+ },
+ {
+  "state": "Guianas",
+  "macro": "Gran Colombia",
+  "x": 5509,
+  "y": 4768
+ },
+ {
+  "state": "Peru",
+  "macro": "Andes",
+  "x": 4678,
+  "y": 5499
+ },
+ {
+  "state": "Bolivia",
+  "macro": "Andes",
+  "x": 5167,
+  "y": 5931
+ },
+ {
+  "state": "Chile Norte",
+  "macro": "Andes",
+  "x": 4971,
+  "y": 6263
+ },
+ {
+  "state": "Chile Central",
+  "macro": "Andes",
+  "x": 4874,
+  "y": 6972
+ },
+ {
+  "state": "Patagonia",
+  "macro": "Andes",
+  "x": 4971,
+  "y": 7708
+ },
+ {
+  "state": "Tierra del Fuego",
+  "macro": "Andes",
+  "x": 5020,
+  "y": 8416
+ },
+ {
+  "state": "Amazonas",
+  "macro": "Brazil",
+  "x": 5264,
+  "y": 5291
+ },
+ {
+  "state": "Para",
+  "macro": "Brazil",
+  "x": 5802,
+  "y": 5199
+ },
+ {
+  "state": "Nordeste",
+  "macro": "Brazil",
+  "x": 6388,
+  "y": 5444
+ },
+ {
+  "state": "Mato Grosso",
+  "macro": "Brazil",
+  "x": 5606,
+  "y": 5770
+ },
+ {
+  "state": "Minas Gerais",
+  "macro": "Brazil",
+  "x": 6192,
+  "y": 6040
+ },
+ {
+  "state": "Sao Paulo",
+  "macro": "Brazil",
+  "x": 5948,
+  "y": 6329
+ },
+ {
+  "state": "Rio Grande do Sul",
+  "macro": "Brazil",
+  "x": 5753,
+  "y": 6708
+ },
+ {
+  "state": "Paraguay",
+  "macro": "River Plate",
+  "x": 5509,
+  "y": 6263
+ },
+ {
+  "state": "Uruguay",
+  "macro": "River Plate",
+  "x": 5606,
+  "y": 6898
+ },
+ {
+  "state": "Buenos Aires",
+  "macro": "River Plate",
+  "x": 5313,
+  "y": 6972
+ },
+ {
+  "state": "Cuyo",
+  "macro": "River Plate",
+  "x": 5069,
+  "y": 6834
+ },
+ {
+  "state": "Portugal",
+  "macro": "Iberia",
+  "x": 7951,
+  "y": 2841
+ },
+ {
+  "state": "Castile",
+  "macro": "Iberia",
+  "x": 8146,
+  "y": 2801
+ },
+ {
+  "state": "Andalusia",
+  "macro": "Iberia",
+  "x": 8122,
+  "y": 2955
+ },
+ {
+  "state": "Catalonia",
+  "macro": "Iberia",
+  "x": 8415,
+  "y": 2703
+ },
+ {
+  "state": "Galicia (Spain)",
+  "macro": "Iberia",
+  "x": 7951,
+  "y": 2631
+ },
+ {
+  "state": "Aquitaine",
+  "macro": "France",
+  "x": 8341,
+  "y": 2566
+ },
+ {
+  "state": "Ile-de-France",
+  "macro": "France",
+  "x": 8463,
+  "y": 2225
+ },
+ {
+  "state": "Brittany",
+  "macro": "France",
+  "x": 8219,
+  "y": 2269
+ },
+ {
+  "state": "Provence",
+  "macro": "France",
+  "x": 8586,
+  "y": 2566
+ },
+ {
+  "state": "Lorraine",
+  "macro": "France",
+  "x": 8634,
+  "y": 2225
+ },
+ {
+  "state": "Normandy",
+  "macro": "France",
+  "x": 8341,
+  "y": 2184
+ },
+ {
+  "state": "England",
+  "macro": "British Isles",
+  "x": 8268,
+  "y": 1915
+ },
+ {
+  "state": "Wales",
+  "macro": "British Isles",
+  "x": 8170,
+  "y": 1954
+ },
+ {
+  "state": "Scotland",
+  "macro": "British Isles",
+  "x": 8146,
+  "y": 1532
+ },
+ {
+  "state": "Ireland",
+  "macro": "British Isles",
+  "x": 7951,
+  "y": 1874
+ },
+ {
+  "state": "Belgium",
+  "macro": "Low Countries",
+  "x": 8561,
+  "y": 2047
+ },
+ {
+  "state": "Netherlands",
+  "macro": "Low Countries",
+  "x": 8586,
+  "y": 1930
+ },
+ {
+  "state": "Rhineland",
+  "macro": "Germany",
+  "x": 8708,
+  "y": 2070
+ },
+ {
+  "state": "Bavaria",
+  "macro": "Germany",
+  "x": 8903,
+  "y": 2225
+ },
+ {
+  "state": "Brandenburg",
+  "macro": "Germany",
+  "x": 8976,
+  "y": 1915
+ },
+ {
+  "state": "Saxony",
+  "macro": "Germany",
+  "x": 8976,
+  "y": 2031
+ },
+ {
+  "state": "Hanover",
+  "macro": "Germany",
+  "x": 8805,
+  "y": 1915
+ },
+ {
+  "state": "Pomerania",
+  "macro": "Germany",
+  "x": 9123,
+  "y": 1792
+ },
+ {
+  "state": "East Prussia",
+  "macro": "Germany",
+  "x": 9367,
+  "y": 1792
+ },
+ {
+  "state": "Silesia",
+  "macro": "Germany",
+  "x": 9172,
+  "y": 2031
+ },
+ {
+  "state": "Austria",
+  "macro": "Austria-Hungary",
+  "x": 9025,
+  "y": 2286
+ },
+ {
+  "state": "Bohemia",
+  "macro": "Austria-Hungary",
+  "x": 9074,
+  "y": 2108
+ },
+ {
+  "state": "Hungary",
+  "macro": "Austria-Hungary",
+  "x": 9269,
+  "y": 2354
+ },
+ {
+  "state": "Galicia",
+  "macro": "Austria-Hungary",
+  "x": 9440,
+  "y": 2131
+ },
+ {
+  "state": "Transylvania",
+  "macro": "Austria-Hungary",
+  "x": 9562,
+  "y": 2439
+ },
+ {
+  "state": "Croatia",
+  "macro": "Austria-Hungary",
+  "x": 9123,
+  "y": 2511
+ },
+ {
+  "state": "Switzerland",
+  "macro": "Switzerland",
+  "x": 8742,
+  "y": 2371
+ },
+ {
+  "state": "Piedmont",
+  "macro": "Italy",
+  "x": 8732,
+  "y": 2511
+ },
+ {
+  "state": "Lombardy",
+  "macro": "Italy",
+  "x": 8830,
+  "y": 2480
+ },
+ {
+  "state": "Tuscany",
+  "macro": "Italy",
+  "x": 8879,
+  "y": 2593
+ },
+ {
+  "state": "Papal States",
+  "macro": "Italy",
+  "x": 8976,
+  "y": 2673
+ },
+ {
+  "state": "Naples",
+  "macro": "Italy",
+  "x": 9074,
+  "y": 2768
+ },
+ {
+  "state": "Sicily",
+  "macro": "Italy",
+  "x": 9025,
+  "y": 2955
+ },
+ {
+  "state": "Sardinia",
+  "macro": "Italy",
+  "x": 8781,
+  "y": 2801
+ },
+ {
+  "state": "Corsica",
+  "macro": "Italy",
+  "x": 8781,
+  "y": 2673
+ },
+ {
+  "state": "Serbia",
+  "macro": "Balkans",
+  "x": 9367,
+  "y": 2566
+ },
+ {
+  "state": "Wallachia",
+  "macro": "Balkans",
+  "x": 9562,
+  "y": 2566
+ },
+ {
+  "state": "Bulgaria",
+  "macro": "Balkans",
+  "x": 9562,
+  "y": 2646
+ },
+ {
+  "state": "Macedonia",
+  "macro": "Balkans",
+  "x": 9416,
+  "y": 2733
+ },
+ {
+  "state": "Albania",
+  "macro": "Balkans",
+  "x": 9318,
+  "y": 2733
+ },
+ {
+  "state": "Greece",
+  "macro": "Balkans",
+  "x": 9416,
+  "y": 2893
+ },
+ {
+  "state": "Denmark",
+  "macro": "Scandinavia",
+  "x": 8830,
+  "y": 1621
+ },
+ {
+  "state": "Norway South",
+  "macro": "Scandinavia",
+  "x": 8781,
+  "y": 1252
+ },
+ {
+  "state": "Norway North",
+  "macro": "Scandinavia",
+  "x": 9123,
+  "y": 316
+ },
+ {
+  "state": "Sweden South",
+  "macro": "Scandinavia",
+  "x": 9025,
+  "y": 1441
+ },
+ {
+  "state": "Sweden North",
+  "macro": "Scandinavia",
+  "x": 9220,
+  "y": 818
+ },
+ {
+  "state": "Finland",
+  "macro": "Scandinavia",
+  "x": 9611,
+  "y": 1042
+ },
+ {
+  "state": "Livonia",
+  "macro": "Baltic",
+  "x": 9562,
+  "y": 1441
+ },
+ {
+  "state": "Lithuania",
+  "macro": "Baltic",
+  "x": 9513,
+  "y": 1708
+ },
+ {
+  "state": "Poland",
+  "macro": "Baltic",
+  "x": 9367,
+  "y": 1954
+ },
+ {
+  "state": "Belarus",
+  "macro": "Western Russia",
+  "x": 9709,
+  "y": 1833
+ },
+ {
+  "state": "Kiev",
+  "macro": "Western Russia",
+  "x": 9855,
+  "y": 2146
+ },
+ {
+  "state": "Kharkov",
+  "macro": "Western Russia",
+  "x": 10148,
+  "y": 2184
+ },
+ {
+  "state": "Bessarabia",
+  "macro": "Western Russia",
+  "x": 9806,
+  "y": 2397
+ },
+ {
+  "state": "Crimea",
+  "macro": "Western Russia",
+  "x": 10002,
+  "y": 2511
+ },
+ {
+  "state": "Don",
+  "macro": "Western Russia",
+  "x": 10295,
+  "y": 2354
+ },
+ {
+  "state": "Moscow",
+  "macro": "Western Russia",
+  "x": 10178,
+  "y": 1647
+ },
+ {
+  "state": "St Petersburg",
+  "macro": "Western Russia",
+  "x": 9806,
+  "y": 1262
+ },
+ {
+  "state": "Karelia",
+  "macro": "Western Russia",
+  "x": 10002,
+  "y": 1042
+ },
+ {
+  "state": "Archangelsk",
+  "macro": "Western Russia",
+  "x": 10344,
+  "y": 818
+ },
+ {
+  "state": "Kazan",
+  "macro": "Western Russia",
+  "x": 10734,
+  "y": 1639
+ },
+ {
+  "state": "Saratov",
+  "macro": "Western Russia",
+  "x": 10637,
+  "y": 1954
+ },
+ {
+  "state": "Astrakhan",
+  "macro": "Western Russia",
+  "x": 10686,
+  "y": 2439
+ },
+ {
+  "state": "Urals",
+  "macro": "Western Russia",
+  "x": 11272,
+  "y": 1621
+ },
+ {
+  "state": "Orenburg",
+  "macro": "Western Russia",
+  "x": 11028,
+  "y": 1992
+ },
+ {
+  "state": "Kuban",
+  "macro": "Caucasus",
+  "x": 10393,
+  "y": 2566
+ },
+ {
+  "state": "Georgia (Caucasus)",
+  "macro": "Caucasus",
+  "x": 10490,
+  "y": 2673
+ },
+ {
+  "state": "Armenia",
+  "macro": "Caucasus",
+  "x": 10539,
+  "y": 2801
+ },
+ {
+  "state": "Azerbaijan",
+  "macro": "Caucasus",
+  "x": 10710,
+  "y": 2768
+ },
+ {
+  "state": "Anatolia West",
+  "macro": "Anatolia",
+  "x": 9806,
+  "y": 2893
+ },
+ {
+  "state": "Anatolia East",
+  "macro": "Anatolia",
+  "x": 10246,
+  "y": 2884
+ },
+ {
+  "state": "Constantinople",
+  "macro": "Anatolia",
+  "x": 9758,
+  "y": 2733
+ },
+ {
+  "state": "Syria",
+  "macro": "Levant",
+  "x": 10197,
+  "y": 3109
+ },
+ {
+  "state": "Palestine",
+  "macro": "Levant",
+  "x": 10075,
+  "y": 3288
+ },
+ {
+  "state": "Aleppo",
+  "macro": "Levant",
+  "x": 10173,
+  "y": 3017
+ },
+ {
+  "state": "Baghdad",
+  "macro": "Mesopotamia",
+  "x": 10490,
+  "y": 3211
+ },
+ {
+  "state": "Basra",
+  "macro": "Mesopotamia",
+  "x": 10661,
+  "y": 3375
+ },
+ {
+  "state": "Kurdistan",
+  "macro": "Mesopotamia",
+  "x": 10441,
+  "y": 3017
+ },
+ {
+  "state": "Hejaz",
+  "macro": "Arabia",
+  "x": 10295,
+  "y": 3744
+ },
+ {
+  "state": "Najd",
+  "macro": "Arabia",
+  "x": 10539,
+  "y": 3686
+ },
+ {
+  "state": "Hasa",
+  "macro": "Arabia",
+  "x": 10783,
+  "y": 3657
+ },
+ {
+  "state": "Oman",
+  "macro": "Arabia",
+  "x": 11125,
+  "y": 3915
+ },
+ {
+  "state": "Yemen",
+  "macro": "Arabia",
+  "x": 10539,
+  "y": 4229
+ },
+ {
+  "state": "Azerbaijan (Persia)",
+  "macro": "Persia",
+  "x": 10588,
+  "y": 2955
+ },
+ {
+  "state": "Tehran",
+  "macro": "Persia",
+  "x": 10852,
+  "y": 3066
+ },
+ {
+  "state": "Fars",
+  "macro": "Persia",
+  "x": 10930,
+  "y": 3346
+ },
+ {
+  "state": "Khorasan",
+  "macro": "Persia",
+  "x": 11223,
+  "y": 3048
+ },
+ {
+  "state": "Khuzestan",
+  "macro": "Persia",
+  "x": 10734,
+  "y": 3346
+ },
+ {
+  "state": "Kerman",
+  "macro": "Persia",
+  "x": 11223,
+  "y": 3509
+ },
+ {
+  "state": "Kabul",
+  "macro": "Central Asia",
+  "x": 11711,
+  "y": 3139
+ },
+ {
+  "state": "Kandahar",
+  "macro": "Central Asia",
+  "x": 11516,
+  "y": 3317
+ },
+ {
+  "state": "Herat",
+  "macro": "Central Asia",
+  "x": 11369,
+  "y": 3169
+ },
+ {
+  "state": "Turkmenistan",
+  "macro": "Central Asia",
+  "x": 11223,
+  "y": 2884
+ },
+ {
+  "state": "Bukhara",
+  "macro": "Central Asia",
+  "x": 11565,
+  "y": 2801
+ },
+ {
+  "state": "Tajikistan",
+  "macro": "Central Asia",
+  "x": 11785,
+  "y": 2893
+ },
+ {
+  "state": "Kazakh West",
+  "macro": "Central Asia",
+  "x": 11125,
+  "y": 2269
+ },
+ {
+  "state": "Kazakh Central",
+  "macro": "Central Asia",
+  "x": 11662,
+  "y": 2269
+ },
+ {
+  "state": "Semirechye",
+  "macro": "Central Asia",
+  "x": 12151,
+  "y": 2511
+ },
+ {
+  "state": "Kyrgyzstan",
+  "macro": "Central Asia",
+  "x": 12004,
+  "y": 2703
+ },
+ {
+  "state": "Tarim Basin",
+  "macro": "Xinjiang and Tibet",
+  "x": 12346,
+  "y": 2801
+ },
+ {
+  "state": "Dzungaria",
+  "macro": "Xinjiang and Tibet",
+  "x": 12590,
+  "y": 2566
+ },
+ {
+  "state": "Tibet",
+  "macro": "Xinjiang and Tibet",
+  "x": 12737,
+  "y": 3346
+ },
+ {
+  "state": "Qinghai",
+  "macro": "Xinjiang and Tibet",
+  "x": 13030,
+  "y": 3048
+ },
+ {
+  "state": "Sindh",
+  "macro": "Northern India",
+  "x": 11662,
+  "y": 3628
+ },
+ {
+  "state": "Baluchistan",
+  "macro": "Northern India",
+  "x": 11516,
+  "y": 3480
+ },
+ {
+  "state": "Punjab",
+  "macro": "Northern India",
+  "x": 11955,
+  "y": 3346
+ },
+ {
+  "state": "Kashmir",
+  "macro": "Northern India",
+  "x": 12053,
+  "y": 3169
+ },
+ {
+  "state": "Rajputana",
+  "macro": "Northern India",
+  "x": 11931,
+  "y": 3598
+ },
+ {
+  "state": "Delhi",
+  "macro": "Northern India",
+  "x": 12102,
+  "y": 3474
+ },
+ {
+  "state": "Oudh",
+  "macro": "Northern India",
+  "x": 12297,
+  "y": 3598
+ },
+ {
+  "state": "Bihar",
+  "macro": "Northern India",
+  "x": 12493,
+  "y": 3657
+ },
+ {
+  "state": "Nepal",
+  "macro": "Northern India",
+  "x": 12444,
+  "y": 3509
+ },
+ {
+  "state": "Bengal",
+  "macro": "Eastern India",
+  "x": 12639,
+  "y": 3773
+ },
+ {
+  "state": "Orissa",
+  "macro": "Eastern India",
+  "x": 12493,
+  "y": 3944
+ },
+ {
+  "state": "Assam",
+  "macro": "Eastern India",
+  "x": 12883,
+  "y": 3628
+ },
+ {
+  "state": "Central Provinces",
+  "macro": "Eastern India",
+  "x": 12151,
+  "y": 3801
+ },
+ {
+  "state": "Gujarat",
+  "macro": "Southern India",
+  "x": 11858,
+  "y": 3830
+ },
+ {
+  "state": "Maharashtra",
+  "macro": "Southern India",
+  "x": 12004,
+  "y": 4030
+ },
+ {
+  "state": "Hyderabad",
+  "macro": "Southern India",
+  "x": 12175,
+  "y": 4116
+ },
+ {
+  "state": "Mysore",
+  "macro": "Southern India",
+  "x": 12053,
+  "y": 4339
+ },
+ {
+  "state": "Tamil Nadu",
+  "macro": "Southern India",
+  "x": 12175,
+  "y": 4475
+ },
+ {
+  "state": "Kerala",
+  "macro": "Southern India",
+  "x": 12078,
+  "y": 4529
+ },
+ {
+  "state": "Ceylon",
+  "macro": "Southern India",
+  "x": 12283,
+  "y": 4652
+ },
+ {
+  "state": "Upper Burma",
+  "macro": "Burma",
+  "x": 13030,
+  "y": 3858
+ },
+ {
+  "state": "Lower Burma",
+  "macro": "Burma",
+  "x": 13030,
+  "y": 4144
+ },
+ {
+  "state": "Arakan",
+  "macro": "Burma",
+  "x": 12908,
+  "y": 3973
+ },
+ {
+  "state": "Siam",
+  "macro": "Indochina",
+  "x": 13274,
+  "y": 4257
+ },
+ {
+  "state": "Laos",
+  "macro": "Indochina",
+  "x": 13347,
+  "y": 4030
+ },
+ {
+  "state": "Tonkin",
+  "macro": "Indochina",
+  "x": 13494,
+  "y": 3887
+ },
+ {
+  "state": "Annam",
+  "macro": "Indochina",
+  "x": 13616,
+  "y": 4200
+ },
+ {
+  "state": "Cochinchina",
+  "macro": "Indochina",
+  "x": 13518,
+  "y": 4502
+ },
+ {
+  "state": "Cambodia",
+  "macro": "Indochina",
+  "x": 13445,
+  "y": 4394
+ },
+ {
+  "state": "Malaya",
+  "macro": "Indochina",
+  "x": 13323,
+  "y": 4792
+ },
+ {
+  "state": "Sumatra North",
+  "macro": "Indonesia",
+  "x": 13128,
+  "y": 4861
+ },
+ {
+  "state": "Sumatra South",
+  "macro": "Indonesia",
+  "x": 13421,
+  "y": 5199
+ },
+ {
+  "state": "West Java",
+  "macro": "Indonesia",
+  "x": 13567,
+  "y": 5379
+ },
+ {
+  "state": "East Java",
+  "macro": "Indonesia",
+  "x": 13811,
+  "y": 5428
+ },
+ {
+  "state": "Borneo North",
+  "macro": "Indonesia",
+  "x": 13958,
+  "y": 4861
+ },
+ {
+  "state": "Borneo South",
+  "macro": "Indonesia",
+  "x": 13909,
+  "y": 5101
+ },
+ {
+  "state": "Celebes",
+  "macro": "Indonesia",
+  "x": 14202,
+  "y": 5153
+ },
+ {
+  "state": "Moluccas",
+  "macro": "Indonesia",
+  "x": 14593,
+  "y": 5199
+ },
+ {
+  "state": "Lesser Sundas",
+  "macro": "Indonesia",
+  "x": 14202,
+  "y": 5499
+ },
+ {
+  "state": "Luzon",
+  "macro": "Philippines",
+  "x": 14251,
+  "y": 4200
+ },
+ {
+  "state": "Mindanao and Visayas",
+  "macro": "Philippines",
+  "x": 14446,
+  "y": 4629
+ },
+ {
+  "state": "Outer Mongolia North",
+  "macro": "Mongolia",
+  "x": 13372,
+  "y": 2269
+ },
+ {
+  "state": "Gobi",
+  "macro": "Mongolia",
+  "x": 13616,
+  "y": 2620
+ },
+ {
+  "state": "Inner Mongolia",
+  "macro": "Mongolia",
+  "x": 13811,
+  "y": 2733
+ },
+ {
+  "state": "Heilongjiang",
+  "macro": "Manchuria and Korea",
+  "x": 14593,
+  "y": 2108
+ },
+ {
+  "state": "Jilin",
+  "macro": "Manchuria and Korea",
+  "x": 14495,
+  "y": 2511
+ },
+ {
+  "state": "Liaoning",
+  "macro": "Manchuria and Korea",
+  "x": 14349,
+  "y": 2703
+ },
+ {
+  "state": "Korea North",
+  "macro": "Manchuria and Korea",
+  "x": 14544,
+  "y": 2801
+ },
+ {
+  "state": "Korea South",
+  "macro": "Manchuria and Korea",
+  "x": 14568,
+  "y": 3017
+ },
+ {
+  "state": "Zhili",
+  "macro": "North China",
+  "x": 14007,
+  "y": 2841
+ },
+ {
+  "state": "Shandong",
+  "macro": "North China",
+  "x": 14104,
+  "y": 3017
+ },
+ {
+  "state": "Shanxi",
+  "macro": "North China",
+  "x": 13811,
+  "y": 2955
+ },
+ {
+  "state": "Shaanxi",
+  "macro": "North China",
+  "x": 13665,
+  "y": 3139
+ },
+ {
+  "state": "Gansu",
+  "macro": "North China",
+  "x": 13372,
+  "y": 2986
+ },
+ {
+  "state": "Henan",
+  "macro": "North China",
+  "x": 13860,
+  "y": 3169
+ },
+ {
+  "state": "Jiangsu",
+  "macro": "Central China",
+  "x": 14153,
+  "y": 3288
+ },
+ {
+  "state": "Anhui",
+  "macro": "Central China",
+  "x": 14056,
+  "y": 3317
+ },
+ {
+  "state": "Hubei",
+  "macro": "Central China",
+  "x": 13860,
+  "y": 3346
+ },
+ {
+  "state": "Hunan",
+  "macro": "Central China",
+  "x": 13811,
+  "y": 3539
+ },
+ {
+  "state": "Jiangxi",
+  "macro": "Central China",
+  "x": 14007,
+  "y": 3509
+ },
+ {
+  "state": "Zhejiang",
+  "macro": "Central China",
+  "x": 14202,
+  "y": 3429
+ },
+ {
+  "state": "Sichuan",
+  "macro": "Central China",
+  "x": 13421,
+  "y": 3375
+ },
+ {
+  "state": "Fujian",
+  "macro": "South China",
+  "x": 14104,
+  "y": 3628
+ },
+ {
+  "state": "Guangdong",
+  "macro": "South China",
+  "x": 13860,
+  "y": 3773
+ },
+ {
+  "state": "Guangxi",
+  "macro": "South China",
+  "x": 13616,
+  "y": 3773
+ },
+ {
+  "state": "Guizhou",
+  "macro": "South China",
+  "x": 13543,
+  "y": 3598
+ },
+ {
+  "state": "Yunnan",
+  "macro": "South China",
+  "x": 13274,
+  "y": 3686
+ },
+ {
+  "state": "Hainan",
+  "macro": "South China",
+  "x": 13704,
+  "y": 4002
+ },
+ {
+  "state": "Taiwan",
+  "macro": "South China",
+  "x": 14251,
+  "y": 3761
+ },
+ {
+  "state": "Hokkaido",
+  "macro": "Japan",
+  "x": 15277,
+  "y": 2620
+ },
+ {
+  "state": "Tohoku",
+  "macro": "Japan",
+  "x": 15203,
+  "y": 2841
+ },
+ {
+  "state": "Kanto",
+  "macro": "Japan",
+  "x": 15154,
+  "y": 3048
+ },
+ {
+  "state": "Chubu",
+  "macro": "Japan",
+  "x": 15032,
+  "y": 3048
+ },
+ {
+  "state": "Kansai",
+  "macro": "Japan",
+  "x": 14959,
+  "y": 3121
+ },
+ {
+  "state": "Chugoku",
+  "macro": "Japan",
+  "x": 14813,
+  "y": 3121
+ },
+ {
+  "state": "Shikoku",
+  "macro": "Japan",
+  "x": 14861,
+  "y": 3187
+ },
+ {
+  "state": "Kyushu",
+  "macro": "Japan",
+  "x": 14730,
+  "y": 3241
+ },
+ {
+  "state": "West Siberia",
+  "macro": "Siberia",
+  "x": 11760,
+  "y": 1252
+ },
+ {
+  "state": "Tomsk",
+  "macro": "Siberia",
+  "x": 12493,
+  "y": 1532
+ },
+ {
+  "state": "Krasnoyarsk",
+  "macro": "Siberia",
+  "x": 12835,
+  "y": 1042
+ },
+ {
+  "state": "Irkutsk",
+  "macro": "Siberia",
+  "x": 13470,
+  "y": 1874
+ },
+ {
+  "state": "Yakutia",
+  "macro": "Siberia",
+  "x": 14593,
+  "y": 932
+ },
+ {
+  "state": "Yakutia North",
+  "macro": "Siberia",
+  "x": 14690,
+  "y": 32
+ },
+ {
+  "state": "Taymyr",
+  "macro": "Siberia",
+  "x": 13225,
+  "y": -281
+ },
+ {
+  "state": "Primorye",
+  "macro": "Siberia",
+  "x": 14886,
+  "y": 2439
+ },
+ {
+  "state": "Okhotsk",
+  "macro": "Siberia",
+  "x": 15667,
+  "y": 1252
+ },
+ {
+  "state": "Kamchatka",
+  "macro": "Siberia",
+  "x": 16156,
+  "y": 1621
+ },
+ {
+  "state": "Chukotka",
+  "macro": "Siberia",
+  "x": 16742,
+  "y": 577
+ },
+ {
+  "state": "Sakhalin",
+  "macro": "Siberia",
+  "x": 15325,
+  "y": 2031
+ },
+ {
+  "state": "Western Australia",
+  "macro": "Australia",
+  "x": 14251,
+  "y": 6463
+ },
+ {
+  "state": "Northern Territory",
+  "macro": "Australia",
+  "x": 14837,
+  "y": 6040
+ },
+ {
+  "state": "Queensland",
+  "macro": "Australia",
+  "x": 15423,
+  "y": 6206
+ },
+ {
+  "state": "South Australia",
+  "macro": "Australia",
+  "x": 14935,
+  "y": 6771
+ },
+ {
+  "state": "New South Wales",
+  "macro": "Australia",
+  "x": 15570,
+  "y": 6834
+ },
+ {
+  "state": "Victoria",
+  "macro": "Australia",
+  "x": 15399,
+  "y": 7120
+ },
+ {
+  "state": "Tasmania",
+  "macro": "Australia",
+  "x": 15521,
+  "y": 7497
+ },
+ {
+  "state": "North Island",
+  "macro": "New Zealand",
+  "x": 16913,
+  "y": 7195
+ },
+ {
+  "state": "South Island",
+  "macro": "New Zealand",
+  "x": 16644,
+  "y": 7637
+ },
+ {
+  "state": "New Guinea West",
+  "macro": "Pacific",
+  "x": 15081,
+  "y": 5245
+ },
+ {
+  "state": "New Guinea East",
+  "macro": "Pacific",
+  "x": 15472,
+  "y": 5337
+ },
+ {
+  "state": "Melanesia",
+  "macro": "Pacific",
+  "x": 16156,
+  "y": 5499
+ },
+ {
+  "state": "Fiji",
+  "macro": "Pacific",
+  "x": 17035,
+  "y": 5959
+ },
+ {
+  "state": "Polynesia",
+  "macro": "Pacific",
+  "x": 1015,
+  "y": 5931
+ },
+ {
+  "state": "Micronesia",
+  "macro": "Pacific",
+  "x": 16058,
+  "y": 4676
+ },
+ {
+  "state": "Morocco",
+  "macro": "Maghreb",
+  "x": 8048,
+  "y": 3229
+ },
+ {
+  "state": "Western Sahara",
+  "macro": "Maghreb",
+  "x": 7706,
+  "y": 3744
+ },
+ {
+  "state": "Oran",
+  "macro": "Maghreb",
+  "x": 8317,
+  "y": 3109
+ },
+ {
+  "state": "Algiers",
+  "macro": "Maghreb",
+  "x": 8488,
+  "y": 3048
+ },
+ {
+  "state": "Constantine",
+  "macro": "Maghreb",
+  "x": 8659,
+  "y": 3048
+ },
+ {
+  "state": "Algerian Sahara",
+  "macro": "Maghreb",
+  "x": 8488,
+  "y": 3509
+ },
+ {
+  "state": "Tunisia",
+  "macro": "Maghreb",
+  "x": 8805,
+  "y": 3139
+ },
+ {
+  "state": "Tripolitania",
+  "macro": "Libya",
+  "x": 9001,
+  "y": 3259
+ },
+ {
+  "state": "Cyrenaica",
+  "macro": "Libya",
+  "x": 9367,
+  "y": 3346
+ },
+ {
+  "state": "Fezzan",
+  "macro": "Libya",
+  "x": 9025,
+  "y": 3569
+ },
+ {
+  "state": "Kufra",
+  "macro": "Libya",
+  "x": 9465,
+  "y": 3744
+ },
+ {
+  "state": "Lower Egypt",
+  "macro": "Egypt and Sudan",
+  "x": 9855,
+  "y": 3375
+ },
+ {
+  "state": "Upper Egypt",
+  "macro": "Egypt and Sudan",
+  "x": 9904,
+  "y": 3628
+ },
+ {
+  "state": "Nubia",
+  "macro": "Egypt and Sudan",
+  "x": 9880,
+  "y": 4030
+ },
+ {
+  "state": "Khartoum",
+  "macro": "Egypt and Sudan",
+  "x": 9904,
+  "y": 4312
+ },
+ {
+  "state": "Kordofan",
+  "macro": "Egypt and Sudan",
+  "x": 9758,
+  "y": 4394
+ },
+ {
+  "state": "Darfur",
+  "macro": "Egypt and Sudan",
+  "x": 9562,
+  "y": 4366
+ },
+ {
+  "state": "Mauritania",
+  "macro": "Sahel",
+  "x": 7804,
+  "y": 3973
+ },
+ {
+  "state": "Timbuktu",
+  "macro": "Sahel",
+  "x": 8195,
+  "y": 4144
+ },
+ {
+  "state": "Bamako",
+  "macro": "Sahel",
+  "x": 7975,
+  "y": 4394
+ },
+ {
+  "state": "Niger",
+  "macro": "Sahel",
+  "x": 8732,
+  "y": 4200
+ },
+ {
+  "state": "Chad",
+  "macro": "Sahel",
+  "x": 9220,
+  "y": 4312
+ },
+ {
+  "state": "Tibesti",
+  "macro": "Sahel",
+  "x": 9172,
+  "y": 3973
+ },
+ {
+  "state": "Upper Volta",
+  "macro": "Sahel",
+  "x": 8244,
+  "y": 4394
+ },
+ {
+  "state": "Senegal",
+  "macro": "West Africa",
+  "x": 7609,
+  "y": 4284
+ },
+ {
+  "state": "Guinea",
+  "macro": "West Africa",
+  "x": 7755,
+  "y": 4502
+ },
+ {
+  "state": "Sierra Leone",
+  "macro": "West Africa",
+  "x": 7804,
+  "y": 4676
+ },
+ {
+  "state": "Ivory Coast",
+  "macro": "West Africa",
+  "x": 8073,
+  "y": 4676
+ },
+ {
+  "state": "Gold Coast",
+  "macro": "West Africa",
+  "x": 8268,
+  "y": 4676
+ },
+ {
+  "state": "Dahomey",
+  "macro": "West Africa",
+  "x": 8439,
+  "y": 4629
+ },
+ {
+  "state": "Sokoto",
+  "macro": "West Africa",
+  "x": 8708,
+  "y": 4448
+ },
+ {
+  "state": "Yorubaland",
+  "macro": "West Africa",
+  "x": 8537,
+  "y": 4652
+ },
+ {
+  "state": "Niger Delta",
+  "macro": "West Africa",
+  "x": 8683,
+  "y": 4745
+ },
+ {
+  "state": "Cameroon",
+  "macro": "Central Africa",
+  "x": 8927,
+  "y": 4768
+ },
+ {
+  "state": "Ubangi",
+  "macro": "Central Africa",
+  "x": 9367,
+  "y": 4722
+ },
+ {
+  "state": "Gabon",
+  "macro": "Central Africa",
+  "x": 8903,
+  "y": 5066
+ },
+ {
+  "state": "Middle Congo",
+  "macro": "Central Africa",
+  "x": 9074,
+  "y": 5199
+ },
+ {
+  "state": "Lower Congo",
+  "macro": "Central Africa",
+  "x": 9074,
+  "y": 5291
+ },
+ {
+  "state": "Kasai",
+  "macro": "Central Africa",
+  "x": 9416,
+  "y": 5337
+ },
+ {
+  "state": "Katanga",
+  "macro": "Central Africa",
+  "x": 9611,
+  "y": 5554
+ },
+ {
+  "state": "Kivu",
+  "macro": "Central Africa",
+  "x": 9709,
+  "y": 5153
+ },
+ {
+  "state": "Angola North",
+  "macro": "Southwest Africa",
+  "x": 9074,
+  "y": 5499
+ },
+ {
+  "state": "Angola South",
+  "macro": "Southwest Africa",
+  "x": 9123,
+  "y": 5770
+ },
+ {
+  "state": "Ovamboland",
+  "macro": "Southwest Africa",
+  "x": 9172,
+  "y": 6206
+ },
+ {
+  "state": "Namaqualand",
+  "macro": "Southwest Africa",
+  "x": 9220,
+  "y": 6647
+ },
+ {
+  "state": "Bechuanaland",
+  "macro": "Southern Africa",
+  "x": 9513,
+  "y": 6206
+ },
+ {
+  "state": "Rhodesia",
+  "macro": "Southern Africa",
+  "x": 9806,
+  "y": 6040
+ },
+ {
+  "state": "Zambia",
+  "macro": "Southern Africa",
+  "x": 9660,
+  "y": 5770
+ },
+ {
+  "state": "Nyasaland",
+  "macro": "Southern Africa",
+  "x": 10002,
+  "y": 5717
+ },
+ {
+  "state": "Mozambique",
+  "macro": "Southern Africa",
+  "x": 10051,
+  "y": 5986
+ },
+ {
+  "state": "Transvaal",
+  "macro": "Southern Africa",
+  "x": 9733,
+  "y": 6463
+ },
+ {
+  "state": "Natal",
+  "macro": "Southern Africa",
+  "x": 9831,
+  "y": 6647
+ },
+ {
+  "state": "Orange Free State",
+  "macro": "Southern Africa",
+  "x": 9636,
+  "y": 6647
+ },
+ {
+  "state": "Cape Colony",
+  "macro": "Southern Africa",
+  "x": 9416,
+  "y": 6930
+ },
+ {
+  "state": "Tanganyika",
+  "macro": "East Africa",
+  "x": 10051,
+  "y": 5362
+ },
+ {
+  "state": "Uganda",
+  "macro": "East Africa",
+  "x": 9929,
+  "y": 4930
+ },
+ {
+  "state": "Kenya",
+  "macro": "East Africa",
+  "x": 10197,
+  "y": 5031
+ },
+ {
+  "state": "Zanzibar",
+  "macro": "East Africa",
+  "x": 10261,
+  "y": 5337
+ },
+ {
+  "state": "Rwanda-Urundi",
+  "macro": "East Africa",
+  "x": 9806,
+  "y": 5176
+ },
+ {
+  "state": "Somalia North",
+  "macro": "Horn of Africa",
+  "x": 10588,
+  "y": 4582
+ },
+ {
+  "state": "Somalia South",
+  "macro": "Horn of Africa",
+  "x": 10539,
+  "y": 4861
+ },
+ {
+  "state": "Ethiopia",
+  "macro": "Horn of Africa",
+  "x": 10246,
+  "y": 4582
+ },
+ {
+  "state": "Eritrea",
+  "macro": "Horn of Africa",
+  "x": 10246,
+  "y": 4229
+ },
+ {
+  "state": "Ogaden",
+  "macro": "Horn of Africa",
+  "x": 10490,
+  "y": 4676
+ },
+ {
+  "state": "Madagascar North",
+  "macro": "Madagascar",
+  "x": 10686,
+  "y": 5824
+ },
+ {
+  "state": "Madagascar South",
+  "macro": "Madagascar",
+  "x": 10612,
+  "y": 6206
+ }
+]

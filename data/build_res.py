@@ -1,0 +1,32 @@
+import sys,csv
+S='/tmp/claude-0/-home-claude/e89071b7-2c88-5aa8-a0e8-ec1836979625/scratchpad/'
+sys.path.insert(0,S+'scripts')
+from anchors2 import MACROS
+names=list(MACROS.keys()); idx={m:i for i,m in enumerate(names)}
+open(S+'patch/res/regionnames/macros.txt','w').write('\n'.join(names)+'\n')
+rows=list(csv.DictReader(open(S+'province_regions.csv')))
+assert [int(r['pid']) for r in rows]==list(range(len(rows)))
+open(S+'patch/res/regionnames/province_macro.txt','w').write('\n'.join(str(idx[r['macro_region']]) for r in rows)+'\n')
+ADJ = """fra French;spa Spanish;por Portuguese;uni British;ire Irish;bel Belgian;net Dutch;pol Polish;ger German;rus Russian;den Danish;fin Finnish;swe Swedish;nor Norwegian;
+lat Latvian;lit Lithuanian;est Estonian;chi Chinese;qin Qing;ind Indian;usa American;ins Indonesian;bra Brazilian;pak Pakistani;nig Nigerian;ban Bangladeshi;jap Japanese;mex Mexican;
+phi Philippine;eth Ethiopian;vie Vietnamese;egy Egyptian;drc Congolese;tur Turkish;tha Thai;ira Iranian;tan Tanzanian;soa South African;mya Burmese;sok South Korean;jos Korean;col Colombian;
+ken Kenyan;ukr Ukrainian;arg Argentine;alg Algerian;sud Sudanese;sus South Sudanese;irq Iraqi;uga Ugandan;can Canadian;mor Moroccan;sau Saudi;uzb Uzbek;per Peruvian;mal Malaysian;
+ven Venezuelan;gha Ghanaian;afg Afghan;moz Mozambican;aus Australian;cam Cameroonian;tai Taiwanese;ivo Ivorian;mad Malagasy;sri Sri Lankan;nii Nigerien;ang Angolan;rom Romanian;nep Nepali;
+syr Syrian;yem Yemeni;bur Burkinabe;chl Chilean;mai Malian;kaz Kazakh;maw Malawian;ecu Ecuadorian;gua Guatemalan;zam Zambian;cab Cambodian;sen Senegalese;cha Chadian;zim Zimbabwean;
+gui Guinean;rwa Rwandan;cub Cuban;tun Tunisian;som Somali;hai Haitian;bol Bolivian;gre Greek;ben Beninese;cze Czech;buu Burundian;dom Dominican;uae Emirati;hun Hungarian;aze Azerbaijani;
+jor Jordanian;ber Belarusian;atr Austrian;auhu Austro-Hungarian;hou Honduran;taj Tajik;isr Israeli;swi Swiss;pap Papuan;bul Bulgarian;tog Togolese;ser Serbian;par Paraguayan;sil Sierra Leonean;
+els Salvadoran;lao Lao;lib Libyan;nic Nicaraguan;kyr Kyrgyz;leb Lebanese;sin Singaporean;slo Slovak;ent Eritrean;car Central African;cor Costa Rican;trk Turkmen;rco Congolese;nez New Zealand;
+lii Liberian;oma Omani;cro Croatian;kuw Kuwaiti;pan Panamanian;bah Bosnian;geo Georgian;mau Mauritanian;mol Moldovan;uru Uruguayan;mon Mongolian;arm Armenian;alb Albanian;jam Jamaican;
+qat Qatari;nam Namibian;bot Botswanan;fyr Macedonian;slv Slovenian;les Basotho;gam Gambian;gab Gabonese;gub Bissau-Guinean;sww Swazi;dji Djiboutian;cpr Cypriot;fij Fijian;com Comorian;
+mot Montenegrin;lux Luxembourgish;sur Surinamese;mat Maltese;ice Icelandic;ita Italian;eng English;sco Scottish;wal Welsh;ggg Greenlandic;byza Byzantine;holy Imperial;prus Prussian;
+tur_m Ottoman;rus_m Russian;rus_c Soviet;ger_m German;ger_f German;fra_f French;fra3 French;spa4 Spanish;por2 Portuguese;usa_m American;jap_m Japanese;ira_m Persian;ira_n Persian;
+mex_m Mexican;bra_m Brazilian;qin_f Chinese;mor2 Moroccan;egy_m Egyptian;eth_m Ethiopian;tha2 Siamese;duin Dutch;conb Belgian;brra British;brit Breton;mugh Mughal;mara Maratha;sikh Sikh;
+zulu Zulu;comi British;fcoo French;frl French;nsp Spanish;brd Dutch;rho Rhodesian;zan Zanzibari;moc Monegasque;ver Venetian;geno Genoese;papl Papal;sick Sicilian;nap Neapolitan;
+aust Austrian;wall Walloon;flan Flemish;grc Gran Colombian;newf Newfoundland;qube Quebecois;cat Catalan;kur Kurdish;tib Tibetan;man Manchu;meng Mongol;kos Kosovar;pal Palestinian""".replace('\n','').split(';')
+adj={}
+for e in ADJ:
+    e=e.strip()
+    if not e: continue
+    t,a=e.split(' ',1); adj[t]=a
+open(S+'patch/res/regionnames/adjectives.txt','w').write('\n'.join(f'{t}={a}' for t,a in adj.items())+'\n')
+print(len(names),'macros;',len(rows),'provinces;',len(adj),'adjectives')

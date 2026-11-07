@@ -1,0 +1,11 @@
+# Each line: macro regions that count as ONE home area for a civ whose capital is in any of them.
+# A detached territory only gets a colonial label (e.g. "French West Africa") when its macro region is outside the capital's group.
+Eastern United States,Western United States,Northwest America
+Canada,Northwest America,Arctic
+North China,Central China,South China,Xinjiang and Tibet,Mongolia
+Northern India,Eastern India,Southern India
+Western Russia,Siberia,Caucasus
+Iberia,France,British Isles,Low Countries,Germany,Austria-Hungary,Switzerland,Italy,Balkans,Scandinavia,Baltic
+Mexico,Central America
+Gran Colombia,Andes,Brazil,River Plate
+Indochina,Burma
